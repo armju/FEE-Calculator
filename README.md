@@ -46,9 +46,11 @@ Total distributions:
   Fund - <fund_m>: $<amount>
   ..  
   ..  
+
+
 ```
-
-
-Returning the completed challenge:
-
-You may choose to send us a link to a public cloud file-sharing service (google drive, dropbox, etc), or you can send an invitation to view a private github repository with your solution.  The link you provide may be used by multiple individuals from our team, so make sure your link is not limited one person.
+(WARNING) YOU MUST HAVE NODEJS LTS IN YOUR COMPUTER
+INTRUCTTIONS: 
+ NPM INSTALL
+ NPM START (FOR RUN THE PORJECT)
+ NPM TEST (FOR RUN THE TEST CASES)
