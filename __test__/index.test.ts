@@ -17,16 +17,6 @@ interface FeeData {
   distributions: Distribution[];
 }
 
-interface OrderItem {
-  type: string;
-  pages: number;
-}
-
-interface Order {
-  order_date: string;
-  order_number: string;
-  order_items: OrderItem[];
-}
 // Define datos de prueba
 const feesData: FeeData[] = [
   {
