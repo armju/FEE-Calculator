@@ -1,4 +1,4 @@
-import { calculatePrice } from '../src/index'; // Asegúrate de reemplazar con la ruta correcta a tu archivo de código
+import { calculatePrice } from '../src/index'; 
 // Define datos de prueba
 interface Fee {
   name: string;
